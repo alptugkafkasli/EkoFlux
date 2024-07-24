@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2196F3</color> <!-- Mavi -->
+    <color name="colorAccent">#FF5722</color> <!-- Turuncu -->
+    <color name="backgroundColor">#212121</color> <!-- Koyu gri arka plan -->
+    <color name="transparentOverlay">#80000000</color> <!-- %50 şeffaf siyah -->
+    <color name="darkerTransparentOverlay">#E0000000</color> <!-- %90 şeffaf siyah -->
+</resources>

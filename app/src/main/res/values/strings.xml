@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EkoFlux</string>
+    <string name="default_web_client_id">34617686127-39nqtobuaasp15ff7m1vd07auh4pb32o.apps.googleusercontent.com</string>
+    <string name="background_image_desc">Background image for login screen</string>
+    <string name="welcome_text">EkoFlux Hoşgeldin!</string>
+    <string name="email_text">E-Posta</string>
+    <string name="password_text">Şifre</string>
+    <string name="signup_text">Bir Hesabın Yok Mu? Kayıt Ol</string>
+    <string name="login_text">Bir Hesabın Var Mı? Giriş Yap</string>
+    <string name="signup_button_text">Kayıt Ol</string>
+    <string name="login_button_text">Giriş Yap</string>
+</resources>

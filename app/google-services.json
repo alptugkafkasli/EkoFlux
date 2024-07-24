@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34617686127",
+    "project_id": "ecoflux-b2d95",
+    "storage_bucket": "ecoflux-b2d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34617686127:android:fd55a0619bd8540eb6f59a",
+        "android_client_info": {
+          "package_name": "com.alptugkafkasli.ekoflux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArHsyXyMf47L07TvFrgKZqm-XxzS0bDbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
